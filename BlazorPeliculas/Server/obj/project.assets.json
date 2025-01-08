@@ -1453,19 +1453,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jesus\\.nuget\\packages\\": {}
+    "C:\\Users\\jesus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\proyectos Jesus\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
+      "projectUniqueName": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
       "projectName": "BlazorPeliculas.Server",
-      "projectPath": "D:\\Escritorio\\proyectos Jesus\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
-      "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\proyectos Jesus\\BlazorPeliculas\\Server\\obj\\",
+      "projectPath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
+      "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+      "outputPath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1479,11 +1484,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Escritorio\\proyectos Jesus\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj": {
-              "projectPath": "D:\\Escritorio\\proyectos Jesus\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj"
+            "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj": {
+              "projectPath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj"
             },
-            "D:\\Escritorio\\proyectos Jesus\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj": {
-              "projectPath": "D:\\Escritorio\\proyectos Jesus\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj"
+            "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj": {
+              "projectPath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj"
             }
           }
         }
@@ -1497,7 +1502,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -1527,7 +1533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

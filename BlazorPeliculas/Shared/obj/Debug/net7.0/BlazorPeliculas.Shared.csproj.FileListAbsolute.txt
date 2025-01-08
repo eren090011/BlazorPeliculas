@@ -20,3 +20,15 @@ D:\Escritorio\proyectos Jesus\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeli
 D:\Escritorio\proyectos Jesus\BlazorPeliculas\Shared\obj\Debug\net7.0\refint\BlazorPeliculas.Shared.dll
 D:\Escritorio\proyectos Jesus\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.pdb
 D:\Escritorio\proyectos Jesus\BlazorPeliculas\Shared\obj\Debug\net7.0\ref\BlazorPeliculas.Shared.dll
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.deps.json
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfoInputs.cache
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfo.cs
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.CoreCompileInputs.cache
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.sourcelink.json
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\refint\BlazorPeliculas.Shared.dll
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\ref\BlazorPeliculas.Shared.dll

@@ -1,15 +1,16 @@
 {
   "entryAssembly": "BlazorPeliculas.Client",
   "resources": {
-    "hash": "sha256-O6Jj1tudy/GcXEtUU1ZlLjHU6g3Q38s8fDj3h+EGyJ0=",
+    "hash": "sha256-jsnXLi6MTynQesz0+gLNo9QiSXLKtRtwnAcVTKWyfuo=",
     "runtime": {
-      "dotnet.7.0.20.xcm9se9w84.js": "sha256-eaJTmow4t8eE7FZMZR5Ja41JMOefGCbIYDTdpclGsac=",
+      "dotnet.js": "sha256-eaJTmow4t8eE7FZMZR5Ja41JMOefGCbIYDTdpclGsac=",
       "dotnet.timezones.blat": "sha256-gbATD5HDsHYtW8vdPYh9iSBY4O5CjvMeCSF5xXWF1xo=",
       "dotnet.wasm": "sha256-2P6rVlE+GN7v/KBZsI/zwouhfpV38+1lEl5FMslgb4A=",
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
+    "coreAssembly": {},
     "assembly": {
       "CurrieTechnologies.Razor.SweetAlert2.dll": "sha256-V4rclcTTvKIxhV67DRYtyzbs1LpoTdX6US3I0ioqUNs=",
       "Markdig.dll": "sha256-+Jf/CRDvPYC4NGFxMa0DVaxz1kwk9zUSk9uMf/QCb6U=",
@@ -204,19 +205,19 @@
       "mscorlib.dll": "sha256-HYyp9hO+GKFyupcEiY1PxtBBXbHzefsO3Q8RiQTaNCA=",
       "netstandard.dll": "sha256-N5CcC3sLzGBesbmeJAp5bwxABN9u7SwkIO5qfFjzoik=",
       "System.Private.CoreLib.dll": "sha256-bJS1DJmhjP7PvegYG+Z8O9EDtRY78HKinA3LUMVLlSQ=",
-      "BlazorPeliculas.Shared.dll": "sha256-Mzg/nBQE4I5D0pREMkKv0x4degWGFfUeteN20bs3MfY=",
-      "BlazorPeliculas.Client.dll": "sha256-sHrHiYSHj+AV0Vifb6yYB9e2VrHYQINGFVEHwUiuwTA="
+      "BlazorPeliculas.Shared.dll": "sha256-+7xBv7+5Jz7V8zdEq3G9M5VjpoIyh0cGfjQDzHIf8k4=",
+      "BlazorPeliculas.Client.dll": "sha256-+mSNXAKalpATv/KUKjU/OzYN336OTey7lpX9+wB4pjA="
     },
     "pdb": {
-      "BlazorPeliculas.Shared.pdb": "sha256-Lpap91bSwpd1wkx9zx5wrcGZIxdboIEfDhtH0E3Cf7I=",
-      "BlazorPeliculas.Client.pdb": "sha256-qe9fOGU12Sl/+ZIGzznqP8Pgqd90kUIDw4UHgPnGlSA="
+      "BlazorPeliculas.Shared.pdb": "sha256-ha/rNSDQ+Mpwu5LSRfaXaKPG9wSwhyH0UMfYtL9dua4=",
+      "BlazorPeliculas.Client.pdb": "sha256-xPq7k477UAtzYTwVI9mu6I1mxBeYfOB5Y1UZ9PiEvZI="
     },
     "lazyAssembly": {
       "MathNet.Numerics.dll": "sha256-g7QaYI5DhAnWUg0BEk9S9XQJ4il5HA4HTjFazn2fQTQ="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
-        "hash": "sha256-2P6rVlE+GN7v/KBZsI/zwouhfpV38+1lEl5FMslgb4A=",
+        "hash": "sha256-",
         "behavior": "dotnetwasm"
       }
     }
