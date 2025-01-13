@@ -2556,8 +2556,8 @@ C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Clie
 C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\Blazored.Typeahead.dll.gz
 C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\Blazored.Typeahead.dll
 C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\ioljf3fmvt-p2b7ngq5jg.gz
-C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\hdwh5jms1z-v3b32khzyk.gz
-C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\7p8x1v19z6-osz16mbmor.gz
-C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\zhgh98znp4-dfp35hwhrr.gz
-C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\5c5js4y383-f6mekiw8xd.gz
-C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\6cesjtjddn-cotzzh7alu.gz
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\hdwh5jms1z-w8k4kwtpks.gz
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\7p8x1v19z6-qd33tutzzw.gz
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\zhgh98znp4-1as10kucwc.gz
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\5c5js4y383-tsysgpj8mz.gz
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\compressed\6cesjtjddn-wopk0o46tb.gz

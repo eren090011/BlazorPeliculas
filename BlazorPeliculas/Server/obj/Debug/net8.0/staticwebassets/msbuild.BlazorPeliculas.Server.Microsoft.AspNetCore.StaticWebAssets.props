@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pkfslupgq1</Fingerprint>
-      <Integrity>2Tr40jnMdfxyahYwfR7LxXlpQrKyvFm3ztwhk3nqLpg=</Integrity>
+      <Fingerprint>xjl6h00009</Fingerprint>
+      <Integrity>Y5zTXWgVe4SRwF/De+atfINHrP6y2OV5dVFdS+gdk/w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\peliculas\2f4aba0b-09d8-42b5-ae8b-60043eddc906.jpg'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pkfslupgq1</Fingerprint>
-      <Integrity>2Tr40jnMdfxyahYwfR7LxXlpQrKyvFm3ztwhk3nqLpg=</Integrity>
+      <Fingerprint>xjl6h00009</Fingerprint>
+      <Integrity>Y5zTXWgVe4SRwF/De+atfINHrP6y2OV5dVFdS+gdk/w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\peliculas\30e31c45-550c-4245-a67c-913112f833ac.jpg'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pkfslupgq1</Fingerprint>
-      <Integrity>2Tr40jnMdfxyahYwfR7LxXlpQrKyvFm3ztwhk3nqLpg=</Integrity>
+      <Fingerprint>xjl6h00009</Fingerprint>
+      <Integrity>Y5zTXWgVe4SRwF/De+atfINHrP6y2OV5dVFdS+gdk/w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\peliculas\4c81bdca-0b53-4e85-9ce1-9f72b29889b5.jpg'))</OriginalItemSpec>

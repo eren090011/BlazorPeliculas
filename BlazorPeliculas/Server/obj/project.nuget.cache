@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K81q4J9Ofk4=",
+  "dgSpecHash": "S1es7qRA+30=",
   "success": true,
-  "projectFilePath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
+  "projectFilePath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\server\\BlazorPeliculas.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jesus\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
