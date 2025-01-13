@@ -1,24 +1,47 @@
 @page "/peliculas/crear"
 @inject NavigationManager navigationManager
+@inject IRepositorio repositorio
+@inject SweetAlertService swal
 <h3>Crear Pelicula</h3>
+@if(MostrarFormulario)
+{
+    <FormularioPeliculas Pelicula="Pelicula" OnValidSubmit="Crear"
+                            GenerosNoSeleccionados="GenerosNoSeleccionados" />
 
-<FormularioPeliculas Pelicula="Pelicula" OnValidSubmit="Crear"
-    GenerosNoSeleccionados="GenerosNoSeleccionados"
-    />
+}
+else
+{
+    <p>Cargando...</p>
+}
+
 @code
 {
     private Pelicula Pelicula= new Pelicula();
     private List<Genero> GenerosNoSeleccionados=new List<Genero>();
-    protected override void OnInitialized(){
-        GenerosNoSeleccionados = new List<Genero>(){
-            new Genero(){Id=1, Nombre="Comedia"},
-            new Genero(){Id=2, Nombre="Drama"},
-            new Genero(){Id=3, Nombre="Acción"},
-            new Genero(){Id=4, Nombre="Sci-fi"}
-        };
+    public bool MostrarFormulario { get; set; } = false;
+    protected async override Task OnInitializedAsync()
+    {
+        var respuestaHTTP = await repositorio.Get<List<Genero>>("api/generos");
+        GenerosNoSeleccionados = respuestaHTTP.Response!;
+        MostrarFormulario = true;
     }
-    void Crear(){
-        Console.WriteLine(navigationManager.Uri);
-        navigationManager.NavigateTo("pelicula");
+    async Task Crear()
+    {
+        var httpResponse = await repositorio.Post<Pelicula, int>("api/peliculas", Pelicula);
+        Console.WriteLine("hola mundo");
+        Console.WriteLine(httpResponse.Response);
+
+        if (httpResponse.Error)
+        {
+            var mensajeError = await httpResponse.ObtenerMensajeError();
+            await swal.FireAsync("Error", mensajeError, SweetAlertIcon.Error);
+        }
+        else
+        {
+            var peliculaId = httpResponse.Response;
+            
+            navigationManager
+                .NavigateTo($"/pelicula/{peliculaId}/{Pelicula.Titulo.Replace(" ", "-")}");
+        }
     }
 }

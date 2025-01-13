@@ -1,0 +1,5 @@
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\GithubFiles\Cursos udemy\BlazorPeliculas\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\staticwebassets.build.json

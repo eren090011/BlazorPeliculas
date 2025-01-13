@@ -1,33 +1,196 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\proyectos Jesus\\BlazorPeliculas\\",
+  "WorkspaceRootPath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\proyectos jesus\\blazorpeliculas\\client\\blazorpeliculas.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\blazorpeliculas.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\pages\\peliculas\\visualizarpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\pages\\peliculas\\visualizarpelicula.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\shared\\peliculaindividual.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\shared\\peliculaindividual.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\pages\\actores\\editaractor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\pages\\actores\\editaractor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\repositorios\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\repositorios\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA058CA5-F564-4611-9D4F-B7E677BBE8EA}|Server\\BlazorPeliculas.Server.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\server\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA058CA5-F564-4611-9D4F-B7E677BBE8EA}|Server\\BlazorPeliculas.Server.csproj|solutionrelative:server\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF80617-983F-425B-BF8C-5FD00F19DA6B}|Shared\\BlazorPeliculas.Shared.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\shared\\dtos\\peliculavisualizardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF80617-983F-425B-BF8C-5FD00F19DA6B}|Shared\\BlazorPeliculas.Shared.csproj|solutionrelative:shared\\dtos\\peliculavisualizardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA058CA5-F564-4611-9D4F-B7E677BBE8EA}|Server\\BlazorPeliculas.Server.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA058CA5-F564-4611-9D4F-B7E677BBE8EA}|Server\\BlazorPeliculas.Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\pages\\generos\\creargenero.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\pages\\generos\\creargenero.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\shared\\inputmarkdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\shared\\inputmarkdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 267,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlazorPeliculas.Client.csproj",
-              "DocumentMoniker": "C:\\proyectos Jesus\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
-              "RelativeDocumentMoniker": "Client\\BlazorPeliculas.Client.csproj",
-              "ToolTip": "C:\\proyectos Jesus\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
-              "RelativeToolTip": "Client\\BlazorPeliculas.Client.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-01T18:37:56.669Z",
+              "DocumentIndex": 2,
+              "Title": "EditarActor.razor",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Actores\\EditarActor.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Actores\\EditarActor.razor",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Actores\\EditarActor.razor",
+              "RelativeToolTip": "Client\\Pages\\Actores\\EditarActor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T19:51:35.8Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Repositorios\\Repositorio.cs",
+              "RelativeDocumentMoniker": "Client\\Repositorios\\Repositorio.cs",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Repositorios\\Repositorio.cs",
+              "RelativeToolTip": "Client\\Repositorios\\Repositorio.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:06:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:09:46.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:09:38.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculaIndividual.razor",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\PeliculaIndividual.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\PeliculaIndividual.razor",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\PeliculaIndividual.razor",
+              "RelativeToolTip": "Client\\Shared\\PeliculaIndividual.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T17:04:12.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputMarkDown.razor",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\InputMarkDown.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\InputMarkDown.razor",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\InputMarkDown.razor",
+              "RelativeToolTip": "Client\\Shared\\InputMarkDown.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T17:01:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearGenero.razor",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Generos\\CrearGenero.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Generos\\CrearGenero.razor",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Generos\\CrearGenero.razor",
+              "RelativeToolTip": "Client\\Pages\\Generos\\CrearGenero.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T16:52:13.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisualizarPelicula.razor",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Peliculas\\VisualizarPelicula.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Peliculas\\VisualizarPelicula.razor",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Peliculas\\VisualizarPelicula.razor",
+              "RelativeToolTip": "Client\\Pages\\Peliculas\\VisualizarPelicula.razor",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T16:43:16.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PeliculaVisualizarDTO.cs",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Shared\\DTOs\\PeliculaVisualizarDTO.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOs\\PeliculaVisualizarDTO.cs",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Shared\\DTOs\\PeliculaVisualizarDTO.cs",
+              "RelativeToolTip": "Shared\\DTOs\\PeliculaVisualizarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:25:54.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "Server\\Controllers\\PeliculasController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:29:35.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

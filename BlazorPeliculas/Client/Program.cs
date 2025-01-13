@@ -14,6 +14,6 @@ await builder.Build().RunAsync();
 
 void ConfigureServices(IServiceCollection services){
     services.AddSweetAlert2();
-    services.AddSingleton<IRepositorio, Repositorio>(); 
+    services.AddScoped<IRepositorio, Repositorio>(); 
      
 }

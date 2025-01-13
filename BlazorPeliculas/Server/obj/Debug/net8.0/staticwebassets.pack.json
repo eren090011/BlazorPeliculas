@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\server\\wwwroot\\peliculas\\2f4aba0b-09d8-42b5-ae8b-60043eddc906.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\2f4aba0b-09d8-42b5-ae8b-60043eddc906.jpg"
+    },
+    {
+      "Id": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\server\\wwwroot\\peliculas\\30e31c45-550c-4245-a67c-913112f833ac.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\30e31c45-550c-4245-a67c-913112f833ac.jpg"
+    },
+    {
+      "Id": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\server\\wwwroot\\peliculas\\4c81bdca-0b53-4e85-9ce1-9f72b29889b5.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\4c81bdca-0b53-4e85-9ce1-9f72b29889b5.jpg"
+    },
+    {
+      "Id": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\server\\wwwroot\\peliculas\\544597d0-1fa5-4aa3-8ecd-94270051b33d.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\544597d0-1fa5-4aa3-8ecd-94270051b33d.jpg"
+    },
+    {
+      "Id": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\server\\wwwroot\\peliculas\\73e87d28-7f13-401c-a5cf-5ad3c5df5776.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\73e87d28-7f13-401c-a5cf-5ad3c5df5776.jpg"
+    },
+    {
+      "Id": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\server\\wwwroot\\peliculas\\b8cfcb48-0cdd-4db3-b603-15bfbbbc52b3.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\b8cfcb48-0cdd-4db3-b603-15bfbbbc52b3.jpg"
+    },
+    {
+      "Id": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\server\\wwwroot\\personas\\c0c08b54-abf1-48f0-befb-792d4a20595a.jpg",
+      "PackagePath": "staticwebassets\\personas\\c0c08b54-abf1-48f0-befb-792d4a20595a.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorPeliculas.Server.props",
+      "PackagePath": "build\\BlazorPeliculas.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorPeliculas.Server.props",
+      "PackagePath": "buildMultiTargeting\\BlazorPeliculas.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorPeliculas.Server.props",
+      "PackagePath": "buildTransitive\\BlazorPeliculas.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

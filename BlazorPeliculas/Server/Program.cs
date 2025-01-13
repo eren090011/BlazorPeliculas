@@ -1,15 +1,26 @@
 using Microsoft.AspNetCore.ResponseCompression;
+using BlazorPeliculas.Server;
+using Microsoft.EntityFrameworkCore;
+using BlazorPeliculas.Server.Helpers;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews()
+    .AddJsonOptions(opciones =>
+    opciones.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 builder.Services.AddRazorPages();
 
-var app = builder.Build();
+builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
+    opciones.UseSqlServer("name=DefaultConnection"));
 
-// Configure the HTTP request pipeline.
+
+builder.Services.AddTransient<IAlmacenadorArchivos, AlmacenadorArchivosLocal>();
+builder.Services.AddHttpContextAccessor();
+
+var app = builder.Build(); 
+
 if (app.Environment.IsDevelopment())
 {
     app.UseWebAssemblyDebugging();
@@ -17,7 +28,7 @@ if (app.Environment.IsDevelopment())
 else
 {
     app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+  
     app.UseHsts();
 }
 
@@ -27,7 +38,6 @@ app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
 
 app.UseRouting();
-
 
 app.MapRazorPages();
 app.MapControllers();

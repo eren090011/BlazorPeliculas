@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TNJKRMYsxBfyVv1PL9/h4RVGY7txA+mnjLX+WDC9E8E=",
+  "Hash": "Tlp4ozT1yRfVwwzmDfpW1Zb6ZolEth04TRW/xsWO9N8=",
   "Source": "BlazorPeliculas.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "9bv3354n80",
-      "Integrity": "RdjwMbcKD0d6bY8+uKEbQKS1sqUr3BUhqjm/bVd0TfY=",
+      "Fingerprint": "cotzzh7alu",
+      "Integrity": "/Fcky3QMCLQev4eQk2irizZ9zhRTzCuSzDrlaYE0xAo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\blazor.boot.json"
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.20\\build\\net7.0\\blazor.webassembly.js"
     },
     {
+      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Typeahead.dll",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Typeahead.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "p2b7ngq5jg",
+      "Integrity": "0cq+AP7JH6JLYVm2dkmhZ4IIP65fMqy/jFQ5mtrpkJY=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\lib\\net6.0\\Blazored.Typeahead.dll"
+    },
+    {
       "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Client.dll",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
@@ -73,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "2ad7azfu21",
-      "Integrity": "+mSNXAKalpATv/KUKjU/OzYN336OTey7lpX9+wB4pjA=",
+      "Fingerprint": "dfp35hwhrr",
+      "Integrity": "hxOtf6cTKKz5qfGfUty2vDNaldJbhCXyifVIWwq8eK4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\BlazorPeliculas.Client.dll"
@@ -94,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "k8pwnj5jbu",
-      "Integrity": "xPq7k477UAtzYTwVI9mu6I1mxBeYfOB5Y1UZ9PiEvZI=",
+      "Fingerprint": "f6mekiw8xd",
+      "Integrity": "x4OD5gI5YXMlsRdGqPdw4FmCoX3pm0+Cy565UwR3hg4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\BlazorPeliculas.Client.pdb"
@@ -115,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "5sh0lt6zmr",
-      "Integrity": "+7xBv7+5Jz7V8zdEq3G9M5VjpoIyh0cGfjQDzHIf8k4=",
+      "Fingerprint": "v3b32khzyk",
+      "Integrity": "BcOwc6XPfNOV1WzJVm7sT8k156ngrtKJzjN+Pr/Nm5c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Shared\\bin\\Debug\\net7.0\\BlazorPeliculas.Shared.dll"
@@ -136,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "xl3915m4ex",
-      "Integrity": "ha/rNSDQ+Mpwu5LSRfaXaKPG9wSwhyH0UMfYtL9dua4=",
+      "Fingerprint": "osz16mbmor",
+      "Integrity": "iIb3gE2hCBuvhKKRL76jM6WYrgK133LdaYmAn76CE8M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Shared\\bin\\Debug\\net7.0\\BlazorPeliculas.Shared.pdb"
@@ -4994,7 +5015,7 @@
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.SecureString.dll"
     },
     {
-      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\5c5js4y383-k8pwnj5jbu.gz",
+      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\5c5js4y383-f6mekiw8xd.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\",
@@ -5008,8 +5029,8 @@
       "RelatedAsset": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kkhemtww1u",
-      "Integrity": "dLolIxHCbGMvxL6MKHz4Tx74hEaEU0JUC+0609OXmls=",
+      "Fingerprint": "42lmymng53",
+      "Integrity": "HP6QpX7NbFUyTuwL5GwOje2kD0m96MVR79fTvNFnJ4g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Client.pdb"
@@ -5162,7 +5183,7 @@
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Runtime.Numerics.dll"
     },
     {
-      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\6cesjtjddn-9bv3354n80.gz",
+      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\6cesjtjddn-cotzzh7alu.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\",
@@ -5176,8 +5197,8 @@
       "RelatedAsset": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ychxy95mxb",
-      "Integrity": "IsxAfvEAqZp0OhzMSqTVfd4EhLK3Fs40aR38ghP9bcQ=",
+      "Fingerprint": "mozcn8ghph",
+      "Integrity": "phbcZITdXNFvc3fD7epujLOwiqDV/3nQRqlgeE2VAAg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5456,7 +5477,7 @@
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Collections.Specialized.dll"
     },
     {
-      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\7p8x1v19z6-xl3915m4ex.gz",
+      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\7p8x1v19z6-osz16mbmor.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\",
@@ -5470,8 +5491,8 @@
       "RelatedAsset": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Shared.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zdxxl5kj8a",
-      "Integrity": "R5DTSHGCWwI49ma0ppFNMCqkgb3cotZcxfMhHv/EUV0=",
+      "Fingerprint": "dfeackko9t",
+      "Integrity": "iQOgPUUElmY73fCj5vbTvDe8eIlS2f4q7XFmx8Bx4HI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Shared.pdb"
@@ -6380,7 +6401,7 @@
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.dll"
     },
     {
-      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\hdwh5jms1z-5sh0lt6zmr.gz",
+      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\hdwh5jms1z-v3b32khzyk.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\",
@@ -6394,8 +6415,8 @@
       "RelatedAsset": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Shared.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ehabknb7k4",
-      "Integrity": "LjYVWEiE3Of+MiBj4u9qvDA48livaqeBJSSkFmQqThs=",
+      "Fingerprint": "jsy35gf303",
+      "Integrity": "HRjahC5spj345sjA6hjNIjsd9vDB4Ag+dp3aiZXJZsw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Shared.dll"
@@ -6567,6 +6588,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.Pipes.dll"
+    },
+    {
+      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\ioljf3fmvt-p2b7ngq5jg.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Typeahead.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Typeahead.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wq0ifvlpmz",
+      "Integrity": "uFCmKaEkgPTnXWuFYkWDtisVkQpJ5gblqPsWJBmr+TM=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Typeahead.dll"
     },
     {
       "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\iztck40tl1-3w9ekc3sj8.gz",
@@ -8606,7 +8648,7 @@
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Xml.XmlDocument.dll"
     },
     {
-      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\zhgh98znp4-2ad7azfu21.gz",
+      "Identity": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\zhgh98znp4-dfp35hwhrr.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\",
@@ -8620,8 +8662,8 @@
       "RelatedAsset": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Client.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ullik2yeyh",
-      "Integrity": "HkZvRzGhEq2qNMjoH0VCcslnLuLGW7zaNlscvEZK84U=",
+      "Fingerprint": "u38roaszhs",
+      "Integrity": "ymEu6w2qfWlCYFKl30BsHSwgpskBnfJWF1/c3W2XDOk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Client.dll"
@@ -9061,8 +9103,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gfdzklgu7a",
-      "Integrity": "REn7twds65WK6uH3C0fpRLD9EZQZO9huEPfdk5GM7B8=",
+      "Fingerprint": "imm68yczn9",
+      "Integrity": "9vfB+HPqSiHbzUeVUQJZfOFf5T5Sr0MYQCvXAL07Hag=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -9108,6 +9150,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Utilidades.js"
+    },
+    {
+      "Identity": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.css",
+      "SourceId": "Blazored.Typeahead",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Typeahead",
+      "RelativePath": "blazored-typeahead.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vy4gn6vj78",
+      "Integrity": "J3yBtIuvF38lccTVcUS7ScUgk93ATgKN6kbpbFM9JA0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.css"
+    },
+    {
+      "Identity": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.js",
+      "SourceId": "Blazored.Typeahead",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Typeahead",
+      "RelativePath": "blazored-typeahead.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uv12w7whvw",
+      "Integrity": "ClIzMmBI5Nozgt7KRG3K3u45r2pMtn/X9Vx2UeudOPU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.js"
     },
     {
       "Identity": "C:\\Users\\jesus\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.6.0\\staticwebassets\\bootstrap4Theme.css",
@@ -9825,6 +9909,80 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "_content/Blazored.Typeahead/blazored-typeahead.css",
+      "AssetFile": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J3yBtIuvF38lccTVcUS7ScUgk93ATgKN6kbpbFM9JA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Jul 2022 07:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J3yBtIuvF38lccTVcUS7ScUgk93ATgKN6kbpbFM9JA0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazored.Typeahead/blazored-typeahead.js",
+      "AssetFile": "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ClIzMmBI5Nozgt7KRG3K3u45r2pMtn/X9Vx2UeudOPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Jul 2022 07:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ClIzMmBI5Nozgt7KRG3K3u45r2pMtn/X9Vx2UeudOPU="
+        }
+      ]
+    },
     {
       "Route": "_content/CurrieTechnologies.Razor.SweetAlert2/bootstrap4Theme.css",
       "AssetFile": "C:\\Users\\jesus\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.6.0\\staticwebassets\\bootstrap4Theme.css",
@@ -11094,7 +11252,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20039"
+          "Value": "20127"
         },
         {
           "Name": "Content-Type",
@@ -11102,11 +11260,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RdjwMbcKD0d6bY8+uKEbQKS1sqUr3BUhqjm/bVd0TfY=\""
+          "Value": "\"/Fcky3QMCLQev4eQk2irizZ9zhRTzCuSzDrlaYE0xAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:49 GMT"
+          "Value": "Mon, 13 Jan 2025 19:55:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11116,18 +11274,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RdjwMbcKD0d6bY8+uKEbQKS1sqUr3BUhqjm/bVd0TfY="
+          "Value": "sha256-/Fcky3QMCLQev4eQk2irizZ9zhRTzCuSzDrlaYE0xAo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\6cesjtjddn-9bv3354n80.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\6cesjtjddn-cotzzh7alu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000111000111"
+          "Quality": "0.000110338740"
         }
       ],
       "ResponseHeaders": [
@@ -11137,15 +11295,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9008"
+          "Value": "9062"
         },
         {
           "Name": "ETag",
-          "Value": "\"IsxAfvEAqZp0OhzMSqTVfd4EhLK3Fs40aR38ghP9bcQ=\""
+          "Value": "\"phbcZITdXNFvc3fD7epujLOwiqDV/3nQRqlgeE2VAAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:15 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11165,19 +11323,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RdjwMbcKD0d6bY8+uKEbQKS1sqUr3BUhqjm/bVd0TfY=\""
+          "Value": "W/\"/Fcky3QMCLQev4eQk2irizZ9zhRTzCuSzDrlaYE0xAo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RdjwMbcKD0d6bY8+uKEbQKS1sqUr3BUhqjm/bVd0TfY="
+          "Value": "sha256-/Fcky3QMCLQev4eQk2irizZ9zhRTzCuSzDrlaYE0xAo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\6cesjtjddn-9bv3354n80.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\6cesjtjddn-cotzzh7alu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11186,7 +11344,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9008"
+          "Value": "9062"
         },
         {
           "Name": "Content-Type",
@@ -11194,11 +11352,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IsxAfvEAqZp0OhzMSqTVfd4EhLK3Fs40aR38ghP9bcQ=\""
+          "Value": "\"phbcZITdXNFvc3fD7epujLOwiqDV/3nQRqlgeE2VAAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:15 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11216,7 +11374,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IsxAfvEAqZp0OhzMSqTVfd4EhLK3Fs40aR38ghP9bcQ="
+          "Value": "sha256-phbcZITdXNFvc3fD7epujLOwiqDV/3nQRqlgeE2VAAg="
         }
       ]
     },
@@ -11358,6 +11516,143 @@
       ]
     },
     {
+      "Route": "_framework/Blazored.Typeahead.dll",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Typeahead.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0cq+AP7JH6JLYVm2dkmhZ4IIP65fMqy/jFQ5mtrpkJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Jul 2022 07:37:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0cq+AP7JH6JLYVm2dkmhZ4IIP65fMqy/jFQ5mtrpkJY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazored.Typeahead.dll",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\ioljf3fmvt-p2b7ngq5jg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000057477871"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17397"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uFCmKaEkgPTnXWuFYkWDtisVkQpJ5gblqPsWJBmr+TM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Jul 2022 07:37:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0cq+AP7JH6JLYVm2dkmhZ4IIP65fMqy/jFQ5mtrpkJY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0cq+AP7JH6JLYVm2dkmhZ4IIP65fMqy/jFQ5mtrpkJY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazored.Typeahead.dll.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\ioljf3fmvt-p2b7ngq5jg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uFCmKaEkgPTnXWuFYkWDtisVkQpJ5gblqPsWJBmr+TM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Jul 2022 07:37:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uFCmKaEkgPTnXWuFYkWDtisVkQpJ5gblqPsWJBmr+TM="
+        }
+      ]
+    },
+    {
       "Route": "_framework/BlazorPeliculas.Client.dll",
       "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorPeliculas.Client.dll",
       "Selectors": [],
@@ -11368,7 +11663,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "71680"
+          "Value": "104448"
         },
         {
           "Name": "Content-Type",
@@ -11376,11 +11671,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+mSNXAKalpATv/KUKjU/OzYN336OTey7lpX9+wB4pjA=\""
+          "Value": "\"hxOtf6cTKKz5qfGfUty2vDNaldJbhCXyifVIWwq8eK4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:15 GMT"
+          "Value": "Mon, 13 Jan 2025 19:55:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11390,18 +11685,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+mSNXAKalpATv/KUKjU/OzYN336OTey7lpX9+wB4pjA="
+          "Value": "sha256-hxOtf6cTKKz5qfGfUty2vDNaldJbhCXyifVIWwq8eK4="
         }
       ]
     },
     {
       "Route": "_framework/BlazorPeliculas.Client.dll",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\zhgh98znp4-2ad7azfu21.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\zhgh98znp4-dfp35hwhrr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000035492458"
+          "Quality": "0.000024283043"
         }
       ],
       "ResponseHeaders": [
@@ -11411,15 +11706,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28174"
+          "Value": "41180"
         },
         {
           "Name": "ETag",
-          "Value": "\"HkZvRzGhEq2qNMjoH0VCcslnLuLGW7zaNlscvEZK84U=\""
+          "Value": "\"ymEu6w2qfWlCYFKl30BsHSwgpskBnfJWF1/c3W2XDOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:15 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11439,19 +11734,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+mSNXAKalpATv/KUKjU/OzYN336OTey7lpX9+wB4pjA=\""
+          "Value": "W/\"hxOtf6cTKKz5qfGfUty2vDNaldJbhCXyifVIWwq8eK4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+mSNXAKalpATv/KUKjU/OzYN336OTey7lpX9+wB4pjA="
+          "Value": "sha256-hxOtf6cTKKz5qfGfUty2vDNaldJbhCXyifVIWwq8eK4="
         }
       ]
     },
     {
       "Route": "_framework/BlazorPeliculas.Client.dll.gz",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\zhgh98znp4-2ad7azfu21.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\zhgh98znp4-dfp35hwhrr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11460,7 +11755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28174"
+          "Value": "41180"
         },
         {
           "Name": "Content-Type",
@@ -11468,11 +11763,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HkZvRzGhEq2qNMjoH0VCcslnLuLGW7zaNlscvEZK84U=\""
+          "Value": "\"ymEu6w2qfWlCYFKl30BsHSwgpskBnfJWF1/c3W2XDOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:15 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11490,7 +11785,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HkZvRzGhEq2qNMjoH0VCcslnLuLGW7zaNlscvEZK84U="
+          "Value": "sha256-ymEu6w2qfWlCYFKl30BsHSwgpskBnfJWF1/c3W2XDOk="
         }
       ]
     },
@@ -11505,7 +11800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "79964"
+          "Value": "94040"
         },
         {
           "Name": "Content-Type",
@@ -11513,11 +11808,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xPq7k477UAtzYTwVI9mu6I1mxBeYfOB5Y1UZ9PiEvZI=\""
+          "Value": "\"x4OD5gI5YXMlsRdGqPdw4FmCoX3pm0+Cy565UwR3hg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:15 GMT"
+          "Value": "Mon, 13 Jan 2025 19:55:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11527,18 +11822,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xPq7k477UAtzYTwVI9mu6I1mxBeYfOB5Y1UZ9PiEvZI="
+          "Value": "sha256-x4OD5gI5YXMlsRdGqPdw4FmCoX3pm0+Cy565UwR3hg4="
         }
       ]
     },
     {
       "Route": "_framework/BlazorPeliculas.Client.pdb",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\5c5js4y383-k8pwnj5jbu.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\5c5js4y383-f6mekiw8xd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000015327315"
+          "Quality": "0.000013246788"
         }
       ],
       "ResponseHeaders": [
@@ -11548,15 +11843,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "65242"
+          "Value": "75489"
         },
         {
           "Name": "ETag",
-          "Value": "\"dLolIxHCbGMvxL6MKHz4Tx74hEaEU0JUC+0609OXmls=\""
+          "Value": "\"HP6QpX7NbFUyTuwL5GwOje2kD0m96MVR79fTvNFnJ4g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:15 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11576,19 +11871,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xPq7k477UAtzYTwVI9mu6I1mxBeYfOB5Y1UZ9PiEvZI=\""
+          "Value": "W/\"x4OD5gI5YXMlsRdGqPdw4FmCoX3pm0+Cy565UwR3hg4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xPq7k477UAtzYTwVI9mu6I1mxBeYfOB5Y1UZ9PiEvZI="
+          "Value": "sha256-x4OD5gI5YXMlsRdGqPdw4FmCoX3pm0+Cy565UwR3hg4="
         }
       ]
     },
     {
       "Route": "_framework/BlazorPeliculas.Client.pdb.gz",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\5c5js4y383-k8pwnj5jbu.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\5c5js4y383-f6mekiw8xd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11597,7 +11892,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "65242"
+          "Value": "75489"
         },
         {
           "Name": "Content-Type",
@@ -11605,11 +11900,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dLolIxHCbGMvxL6MKHz4Tx74hEaEU0JUC+0609OXmls=\""
+          "Value": "\"HP6QpX7NbFUyTuwL5GwOje2kD0m96MVR79fTvNFnJ4g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:15 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11627,7 +11922,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dLolIxHCbGMvxL6MKHz4Tx74hEaEU0JUC+0609OXmls="
+          "Value": "sha256-HP6QpX7NbFUyTuwL5GwOje2kD0m96MVR79fTvNFnJ4g="
         }
       ]
     },
@@ -11642,7 +11937,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8704"
+          "Value": "13312"
         },
         {
           "Name": "Content-Type",
@@ -11650,11 +11945,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+7xBv7+5Jz7V8zdEq3G9M5VjpoIyh0cGfjQDzHIf8k4=\""
+          "Value": "\"BcOwc6XPfNOV1WzJVm7sT8k156ngrtKJzjN+Pr/Nm5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:11 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11664,18 +11959,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+7xBv7+5Jz7V8zdEq3G9M5VjpoIyh0cGfjQDzHIf8k4="
+          "Value": "sha256-BcOwc6XPfNOV1WzJVm7sT8k156ngrtKJzjN+Pr/Nm5c="
         }
       ]
     },
     {
       "Route": "_framework/BlazorPeliculas.Shared.dll",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\hdwh5jms1z-5sh0lt6zmr.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\hdwh5jms1z-v3b32khzyk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000270197244"
+          "Quality": "0.000182381908"
         }
       ],
       "ResponseHeaders": [
@@ -11685,15 +11980,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3700"
+          "Value": "5482"
         },
         {
           "Name": "ETag",
-          "Value": "\"LjYVWEiE3Of+MiBj4u9qvDA48livaqeBJSSkFmQqThs=\""
+          "Value": "\"HRjahC5spj345sjA6hjNIjsd9vDB4Ag+dp3aiZXJZsw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:11 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11713,19 +12008,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+7xBv7+5Jz7V8zdEq3G9M5VjpoIyh0cGfjQDzHIf8k4=\""
+          "Value": "W/\"BcOwc6XPfNOV1WzJVm7sT8k156ngrtKJzjN+Pr/Nm5c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+7xBv7+5Jz7V8zdEq3G9M5VjpoIyh0cGfjQDzHIf8k4="
+          "Value": "sha256-BcOwc6XPfNOV1WzJVm7sT8k156ngrtKJzjN+Pr/Nm5c="
         }
       ]
     },
     {
       "Route": "_framework/BlazorPeliculas.Shared.dll.gz",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\hdwh5jms1z-5sh0lt6zmr.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\hdwh5jms1z-v3b32khzyk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11734,7 +12029,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3700"
+          "Value": "5482"
         },
         {
           "Name": "Content-Type",
@@ -11742,11 +12037,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LjYVWEiE3Of+MiBj4u9qvDA48livaqeBJSSkFmQqThs=\""
+          "Value": "\"HRjahC5spj345sjA6hjNIjsd9vDB4Ag+dp3aiZXJZsw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:11 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11764,7 +12059,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LjYVWEiE3Of+MiBj4u9qvDA48livaqeBJSSkFmQqThs="
+          "Value": "sha256-HRjahC5spj345sjA6hjNIjsd9vDB4Ag+dp3aiZXJZsw="
         }
       ]
     },
@@ -11779,7 +12074,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12436"
+          "Value": "14412"
         },
         {
           "Name": "Content-Type",
@@ -11787,11 +12082,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ha/rNSDQ+Mpwu5LSRfaXaKPG9wSwhyH0UMfYtL9dua4=\""
+          "Value": "\"iIb3gE2hCBuvhKKRL76jM6WYrgK133LdaYmAn76CE8M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:11 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11801,18 +12096,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ha/rNSDQ+Mpwu5LSRfaXaKPG9wSwhyH0UMfYtL9dua4="
+          "Value": "sha256-iIb3gE2hCBuvhKKRL76jM6WYrgK133LdaYmAn76CE8M="
         }
       ]
     },
     {
       "Route": "_framework/BlazorPeliculas.Shared.pdb",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\7p8x1v19z6-xl3915m4ex.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\7p8x1v19z6-osz16mbmor.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000140785584"
+          "Quality": "0.000125849484"
         }
       ],
       "ResponseHeaders": [
@@ -11822,15 +12117,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7102"
+          "Value": "7945"
         },
         {
           "Name": "ETag",
-          "Value": "\"R5DTSHGCWwI49ma0ppFNMCqkgb3cotZcxfMhHv/EUV0=\""
+          "Value": "\"iQOgPUUElmY73fCj5vbTvDe8eIlS2f4q7XFmx8Bx4HI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:11 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11850,19 +12145,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ha/rNSDQ+Mpwu5LSRfaXaKPG9wSwhyH0UMfYtL9dua4=\""
+          "Value": "W/\"iIb3gE2hCBuvhKKRL76jM6WYrgK133LdaYmAn76CE8M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ha/rNSDQ+Mpwu5LSRfaXaKPG9wSwhyH0UMfYtL9dua4="
+          "Value": "sha256-iIb3gE2hCBuvhKKRL76jM6WYrgK133LdaYmAn76CE8M="
         }
       ]
     },
     {
       "Route": "_framework/BlazorPeliculas.Shared.pdb.gz",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\7p8x1v19z6-xl3915m4ex.gz",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\Debug\\net7.0\\compressed\\7p8x1v19z6-osz16mbmor.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11871,7 +12166,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7102"
+          "Value": "7945"
         },
         {
           "Name": "Content-Type",
@@ -11879,11 +12174,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R5DTSHGCWwI49ma0ppFNMCqkgb3cotZcxfMhHv/EUV0=\""
+          "Value": "\"iQOgPUUElmY73fCj5vbTvDe8eIlS2f4q7XFmx8Bx4HI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:21:11 GMT"
+          "Value": "Mon, 13 Jan 2025 19:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11901,7 +12196,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-R5DTSHGCWwI49ma0ppFNMCqkgb3cotZcxfMhHv/EUV0="
+          "Value": "sha256-iQOgPUUElmY73fCj5vbTvDe8eIlS2f4q7XFmx8Bx4HI="
         }
       ]
     },
@@ -40755,51 +41050,6 @@
       ]
     },
     {
-      "Route": "index.gfdzklgu7a.html",
-      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1161"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"REn7twds65WK6uH3C0fpRLD9EZQZO9huEPfdk5GM7B8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:19:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gfdzklgu7a"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-REn7twds65WK6uH3C0fpRLD9EZQZO9huEPfdk5GM7B8="
-        }
-      ]
-    },
-    {
       "Route": "index.html",
       "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\index.html",
       "Selectors": [],
@@ -40810,7 +41060,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1161"
+          "Value": "1329"
         },
         {
           "Name": "Content-Type",
@@ -40818,11 +41068,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"REn7twds65WK6uH3C0fpRLD9EZQZO9huEPfdk5GM7B8=\""
+          "Value": "\"9vfB+HPqSiHbzUeVUQJZfOFf5T5Sr0MYQCvXAL07Hag=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:19:10 GMT"
+          "Value": "Wed, 08 Jan 2025 16:09:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40832,7 +41082,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-REn7twds65WK6uH3C0fpRLD9EZQZO9huEPfdk5GM7B8="
+          "Value": "sha256-9vfB+HPqSiHbzUeVUQJZfOFf5T5Sr0MYQCvXAL07Hag="
+        }
+      ]
+    },
+    {
+      "Route": "index.imm68yczn9.html",
+      "AssetFile": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vfB+HPqSiHbzUeVUQJZfOFf5T5Sr0MYQCvXAL07Hag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 16:09:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imm68yczn9"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vfB+HPqSiHbzUeVUQJZfOFf5T5Sr0MYQCvXAL07Hag="
         }
       ]
     },

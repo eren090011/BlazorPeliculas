@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Client"
   ],
-  "SelectedNode": "\\BlazorPeliculas.sln",
+  "SelectedNode": "\\Client\\App.razor",
   "PreviewInSolutionExplorer": false
 }
