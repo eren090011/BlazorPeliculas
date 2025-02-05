@@ -3,7 +3,14 @@
 @inject IRepositorio repositorio
 
 <PageTitle>Blazor Peliculas</PageTitle>
-
+<AuthorizeView Roles="admin">
+    <Authorized>
+        <p>Estás autorizado, @context.User.Identity?.Name</p>
+    </Authorized>
+    <NotAuthorized>
+        <p>No estás autorizado para ver esto</p>
+    </NotAuthorized>
+</AuthorizeView>
 
 <div>
     <h3>En Cartelera</h3>

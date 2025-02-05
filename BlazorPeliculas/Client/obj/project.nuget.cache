@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MN0hP6DG+jI=",
+  "dgSpecHash": "1mCvKI1rDyY=",
   "success": true,
   "projectFilePath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
   "expectedPackageFiles": [
@@ -11,9 +11,11 @@
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.20\\microsoft.aspnetcore.authorization.7.0.20.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.20\\microsoft.aspnetcore.components.7.0.20.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.20\\microsoft.aspnetcore.components.analyzers.7.0.20.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.0\\microsoft.aspnetcore.components.authorization.7.0.0.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.20\\microsoft.aspnetcore.components.forms.7.0.20.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.20\\microsoft.aspnetcore.components.web.7.0.20.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.20\\microsoft.aspnetcore.components.webassembly.7.0.20.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.0\\microsoft.aspnetcore.components.webassembly.authentication.7.0.0.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\7.0.20\\microsoft.aspnetcore.components.webassembly.devserver.7.0.20.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.20\\microsoft.aspnetcore.metadata.7.0.20.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.0\\microsoft.entityframeworkcore.tools.9.0.0.nupkg.sha512",

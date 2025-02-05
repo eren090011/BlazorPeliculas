@@ -128,6 +128,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vc3RyYXJNYXJrZG93bi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GithubFiles/Cursos udemy/BlazorPeliculas/BlazorPeliculas/BlazorPeliculas/Client/Shared/Paginacion.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2luYWNpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GithubFiles/Cursos udemy/BlazorPeliculas/BlazorPeliculas/BlazorPeliculas/Client/Shared/PeliculaIndividual.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBlbGljdWxhSW5kaXZpZHVhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

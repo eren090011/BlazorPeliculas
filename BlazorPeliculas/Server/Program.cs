@@ -19,6 +19,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
 builder.Services.AddTransient<IAlmacenadorArchivos, AlmacenadorArchivosLocal>();
 builder.Services.AddHttpContextAccessor();
 
+builder.Services.AddAutoMapper(typeof(Program));
 var app = builder.Build(); 
 
 if (app.Environment.IsDevelopment())
