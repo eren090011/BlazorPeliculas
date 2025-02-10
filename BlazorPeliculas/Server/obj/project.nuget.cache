@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CelrhSrjt8s=",
+  "dgSpecHash": "E6Wlj4o+bxY=",
   "success": true,
-  "projectFilePath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
+  "projectFilePath": "C:\\GithubFiles\\Cursos udemy\\Curso blazor\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jesus\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

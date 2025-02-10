@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\pages\\actores\\editaractor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\pages\\actores\\editaractor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\pages\\actores\\crearactor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\pages\\actores\\crearactor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\pages\\actores\\formularioactores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\pages\\actores\\formularioactores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\pages\\generos\\indicegeneros.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\pages\\generos\\indicegeneros.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\auth\\proveedorautenticacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\auth\\proveedorautenticacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\pages\\generos\\indicegeneros.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|solutionrelative:client\\pages\\generos\\indicegeneros.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64B3DDDD-B2A5-4C82-B8A5-FE6625B73B00}|Client\\BlazorPeliculas.Client.csproj|c:\\githubfiles\\cursos udemy\\blazorpeliculas\\blazorpeliculas\\blazorpeliculas\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,19 +75,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FormularioActores.razor",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Actores\\FormularioActores.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Actores\\FormularioActores.razor",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Actores\\FormularioActores.razor",
+              "RelativeToolTip": "Client\\Pages\\Actores\\FormularioActores.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T16:55:17.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditarActor.razor",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Actores\\EditarActor.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Actores\\EditarActor.razor",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Actores\\EditarActor.razor",
+              "RelativeToolTip": "Client\\Pages\\Actores\\EditarActor.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T16:55:13.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearActor.razor",
+              "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Actores\\CrearActor.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Actores\\CrearActor.razor",
+              "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Actores\\CrearActor.razor",
+              "RelativeToolTip": "Client\\Pages\\Actores\\CrearActor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T16:54:40.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IndiceGeneros.razor",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Generos\\IndiceGeneros.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\Generos\\IndiceGeneros.razor",
               "ToolTip": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Generos\\IndiceGeneros.razor",
               "RelativeToolTip": "Client\\Pages\\Generos\\IndiceGeneros.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-05T16:46:58.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Client\\Shared\\NavMenu.razor",
@@ -88,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PeliculaIndividual.razor",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\PeliculaIndividual.razor",
               "RelativeDocumentMoniker": "Client\\Shared\\PeliculaIndividual.razor",
@@ -101,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
@@ -114,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\App.razor",
               "RelativeDocumentMoniker": "Client\\App.razor",
@@ -127,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ProveedorAutenticacionPrueba.cs",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Auth\\ProveedorAutenticacionPrueba.cs",
               "RelativeDocumentMoniker": "Client\\Auth\\ProveedorAutenticacionPrueba.cs",
@@ -140,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
@@ -153,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\_Imports.razor",
               "RelativeDocumentMoniker": "Client\\_Imports.razor",
@@ -166,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "BlazorPeliculas.Client",
               "DocumentMoniker": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
               "RelativeDocumentMoniker": "Client\\BlazorPeliculas.Client.csproj",

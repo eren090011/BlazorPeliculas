@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1mCvKI1rDyY=",
+  "dgSpecHash": "vEu+vOcKWCA=",
   "success": true,
-  "projectFilePath": "C:\\GithubFiles\\Cursos udemy\\BlazorPeliculas\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
+  "projectFilePath": "C:\\GithubFiles\\Cursos udemy\\Curso blazor\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jesus\\.nuget\\packages\\blazored.typeahead\\4.7.0\\blazored.typeahead.4.7.0.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.6.0\\currietechnologies.razor.sweetalert2.5.6.0.nupkg.sha512",
