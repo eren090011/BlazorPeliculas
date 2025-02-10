@@ -28,12 +28,64 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Actores/CrearActor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3Jlc1xDcmVhckFjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Actores/EditarActor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3Jlc1xFZGl0YXJBY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Actores/FormularioActores.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3Jlc1xGb3JtdWxhcmlvQWN0b3Jlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Actores/IndiceActores.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3Jlc1xJbmRpY2VBY3RvcmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Generos/CrearGenero.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xDcmVhckdlbmVyby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Generos/EditarGenero.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xFZGl0YXJHZW5lcm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Generos/FormularioGenero.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xGb3JtdWxhcmlvR2VuZXJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Generos/IndiceGeneros.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xJbmRpY2VHZW5lcm9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Peliculas/CrearPelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXENyZWFyUGVsaWN1bGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Peliculas/EditarPelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXEVkaXRhclBlbGljdWxhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Peliculas/FiltroPeliculas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXEZpbHRyb1BlbGljdWxhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Peliculas/FormularioPeliculas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXEZvcm11bGFyaW9QZWxpY3VsYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Pages/Peliculas/VisualizarPelicula.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXFZpc3VhbGl6YXJQZWxpY3VsYS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/BindAfterDemo.razor]
@@ -48,8 +100,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJpbmRHZXRTZXREZW1vLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/CustomNotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1c3RvbU5vdEZvdW5kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/EjemploTextbox.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVqZW1wbG9UZXh0Ym94LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/InputImg.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0SW1nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/InputMarkDown.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0TWFya0Rvd24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/ListadoGenerico.razor]
@@ -60,8 +124,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpc3RhZG9QZWxpY3VsYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/MostrarMarkdown.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vc3RyYXJNYXJrZG93bi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/PeliculaIndividual.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBlbGljdWxhSW5kaXZpZHVhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/SelectorMultiple.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlbGVjdG9yTXVsdGlwbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/SelectorMultipleTypeahead.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlbGVjdG9yTXVsdGlwbGVUeXBlYWhlYWQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/GithubFiles/Cursos udemy/Curso blazor/BlazorPeliculas/BlazorPeliculas/Client/Shared/SurveyPrompt.razor]
